@@ -29,4 +29,5 @@ For non-material modifications, your continued use of the userbot constitutes ag
 
 ### Signatures
 
-* Your legal name goes here - [Link to your Telegram account](https://t.me/username) | YYYY/MM/DD (when you first signed the TOS)
+* Andrei Jiroh Halili - [@AJHalili2006 on Telegram](https://t.me/AJHalili2006) | 2020/07/16
+* Your legal name goes here - [@username on Telegram](https://t.me/username) | YYYY/MM/DD (when you first signed the TOS)
